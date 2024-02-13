@@ -1,0 +1,5 @@
+﻿  ProductOfTwoNumbers.cpp
+c:\users\dalte\source\repos\product of two numbers\product of two numbers\productoftwonumbers.cpp(15): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dalte\source\repos\product of two numbers\product of two numbers\productoftwonumbers.cpp(16): warning C4305: '=': truncation from 'double' to 'float'
+  Product Of Two Numbers.vcxproj -> C:\Users\dalte\source\repos\Product Of Two Numbers\Debug\Product Of Two Numbers.exe
+  Product Of Two Numbers.vcxproj -> C:\Users\dalte\source\repos\Product Of Two Numbers\Debug\Product Of Two Numbers.pdb (Partial PDB)
